@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "452370677546",
+    "project_id": "railway-booking-system---dbms",
+    "storage_bucket": "railway-booking-system---dbms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452370677546:android:e22742a9c66cb4f50fe853",
+        "android_client_info": {
+          "package_name": "com.example.getxpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452370677546-5ij8vsci0vvs28rccrv201qs6le9ooou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMibobo_IVfRnRtIfNtlDqXggGxm7mOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452370677546-5ij8vsci0vvs28rccrv201qs6le9ooou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452370677546-8p735gpvj3ao9hp7rsi36ksaojdo3dvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getxpro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
